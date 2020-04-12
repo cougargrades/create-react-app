@@ -1,6 +1,6 @@
 {
   "name": "@cougargrades/react-scripts",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "(3.4.1) Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
