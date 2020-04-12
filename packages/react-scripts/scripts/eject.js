@@ -232,11 +232,11 @@ inquirer
     console.log(`  Adding ${cyan('Jest')} configuration`);
     appPackage.jest = jestConfig;
 
-    // Add Babel config
-    console.log(`  Adding ${cyan('Babel')} preset`);
-    appPackage.babel = {
-      presets: ['react-app'],
-    };
+    // // Add Babel config
+    // console.log(`  Adding ${cyan('Babel')} preset`);
+    // appPackage.babel = {
+    //   presets: ['react-app'],
+    // };
 
     // Add ESlint config
     if (!appPackage.eslintConfig) {
