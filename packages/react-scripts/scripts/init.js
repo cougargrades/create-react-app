@@ -387,7 +387,6 @@ module.exports = function(
   }
   console.log();
   console.log('Happy hacking!');
-  console.log('@cougargrades/react-scripts');
 };
 
 function isReactInstalled(appPackage) {
